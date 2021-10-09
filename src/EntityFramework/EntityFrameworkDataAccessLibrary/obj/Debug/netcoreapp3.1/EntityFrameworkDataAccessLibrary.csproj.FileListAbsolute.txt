@@ -1,0 +1,10 @@
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkDataAccessLibrary\bin\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.deps.json
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkDataAccessLibrary\bin\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.dll
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkDataAccessLibrary\bin\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.pdb
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkDataAccessLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.csproj.AssemblyReference.cache
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkDataAccessLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkDataAccessLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.AssemblyInfoInputs.cache
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkDataAccessLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.AssemblyInfo.cs
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkDataAccessLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.csproj.CoreCompileInputs.cache
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkDataAccessLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.dll
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkDataAccessLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.pdb
