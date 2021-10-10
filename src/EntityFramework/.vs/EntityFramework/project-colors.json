@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "279e7e8f-3054-4d23-b423-8571c2750436": {
+      "ProjectGuid": "279e7e8f-3054-4d23-b423-8571c2750436",
+      "DisplayName": "EntityFrameworkWeb",
+      "ColorIndex": 0
+    },
+    "c4dc87ad-c629-4710-88ca-d054bd58103d": {
+      "ProjectGuid": "c4dc87ad-c629-4710-88ca-d054bd58103d",
+      "DisplayName": "EntityFrameworkDataAccessLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

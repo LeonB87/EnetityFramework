@@ -380,3 +380,4 @@ D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkWe
 D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkWeb\bin\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.dll
 D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkWeb\bin\Debug\netcoreapp3.1\EntityFrameworkDataAccessLibrary.pdb
 D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GIT Repositories\Github\EntityFramework\src\EntityFramework\EntityFrameworkWeb\bin\Debug\netcoreapp3.1\EntityFrameworkTest.json
